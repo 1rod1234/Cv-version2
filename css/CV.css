@@ -1,0 +1,32 @@
+body {
+    background-color: hsl(72, 60%, 95%);
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: #181717;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: hsl(226, 81%, 47%);
+    font-size: 200%;
+    text-decoration: underline;
+}
+
+p {
+    font-family: 'Times New Roman', serif;
+}
+
+strong {
+    color: hsl(355, 87%, 47%);
+    font-weight: normal;
+}
+address {
+    color: rgb(214, 93, 12);
+    font-weight: bold;
+    text-align: right;
+}
